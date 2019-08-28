@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background:#D4D1D1;
+	font-family: Roboto,Helvetica,sans-serif;
+	font-size:18px;
+}
+
+#firstHeader {
+	background:#2e4272;
+	padding: 10px 100px 10px 500px;
+	color:#FFFFFF;
+	margin:auto;
+}
+
+#second-header {
+	color:#2e4272;
+	font-family: Roboto,Helvetica,sans-serif;
+	font-size: 20px;
+	font-style:normal;
+	font-weight:bold;
+	
+}
+
+.firstClass{
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-style:normal;
+	color:#000000;
+}
+
+#firstBox{
+	margin:10px;
+	padding:10px;
+	width:1200px;
+	background: #ffffff;
+	border: solid 5px #2e4272;
+}
+
+#firstBox p em {
+	color:#963233;
+}
+
+#secondBox{
+	margin:10px;
+	padding:10px;
+	width:1200px;
+	background:#ffffff;
+	border: solid 5px #2e4272;
+	}
+
+#thirdBox{
+	margin:10px;
+	padding:10px;
+	border-width:5px;
+	width:1200px;
+	background:#ffffff;
+	border: solid 5px #2e4272;
+	}
+
+#fourthBox{
+	margin:10px;
+	padding:10px;
+	
+	}
+
